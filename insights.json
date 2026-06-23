@@ -1,0 +1,213 @@
+{
+  "shape": [
+    179078,
+    39
+  ],
+  "n_seasons": 12,
+  "seasons": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019
+  ],
+  "missing_matches": {
+    "city": 7,
+    "winner": 4,
+    "player_of_match": 4,
+    "umpire1": 2,
+    "umpire2": 2,
+    "umpire3": 637
+  },
+  "top5_batsmen": {
+    "V Kohli": 5434,
+    "SK Raina": 5415,
+    "RG Sharma": 4914,
+    "DA Warner": 4741,
+    "S Dhawan": 4632
+  },
+  "top10_batsmen": {
+    "V Kohli": 5434,
+    "SK Raina": 5415,
+    "RG Sharma": 4914,
+    "DA Warner": 4741,
+    "S Dhawan": 4632,
+    "CH Gayle": 4560,
+    "MS Dhoni": 4477,
+    "RV Uthappa": 4446,
+    "AB de Villiers": 4428,
+    "G Gambhir": 4223
+  },
+  "top3_names": [
+    "V Kohli",
+    "SK Raina",
+    "RG Sharma"
+  ],
+  "best_economy": {
+    "A Kumble": 6.58,
+    "M Muralitharan": 6.7,
+    "Rashid Khan": 6.73,
+    "SP Narine": 6.75,
+    "DL Vettori": 6.78
+  },
+  "best_per_season": [
+    {
+      "season": 2008,
+      "team": "Rajasthan Royals",
+      "played": 16,
+      "wins": 13,
+      "win_pct": 81.2
+    },
+    {
+      "season": 2009,
+      "team": "Delhi Daredevils",
+      "played": 15,
+      "wins": 10,
+      "win_pct": 66.7
+    },
+    {
+      "season": 2010,
+      "team": "Mumbai Indians",
+      "played": 16,
+      "wins": 11,
+      "win_pct": 68.8
+    },
+    {
+      "season": 2011,
+      "team": "Chennai Super Kings",
+      "played": 16,
+      "wins": 11,
+      "win_pct": 68.8
+    },
+    {
+      "season": 2012,
+      "team": "Kolkata Knight Riders",
+      "played": 17,
+      "wins": 12,
+      "win_pct": 70.6
+    },
+    {
+      "season": 2013,
+      "team": "Mumbai Indians",
+      "played": 19,
+      "wins": 13,
+      "win_pct": 68.4
+    },
+    {
+      "season": 2014,
+      "team": "Kings XI Punjab",
+      "played": 17,
+      "wins": 12,
+      "win_pct": 70.6
+    },
+    {
+      "season": 2015,
+      "team": "Mumbai Indians",
+      "played": 16,
+      "wins": 10,
+      "win_pct": 62.5
+    },
+    {
+      "season": 2016,
+      "team": "Sunrisers Hyderabad",
+      "played": 17,
+      "wins": 11,
+      "win_pct": 64.7
+    },
+    {
+      "season": 2017,
+      "team": "Mumbai Indians",
+      "played": 17,
+      "wins": 12,
+      "win_pct": 70.6
+    },
+    {
+      "season": 2018,
+      "team": "Chennai Super Kings",
+      "played": 16,
+      "wins": 11,
+      "win_pct": 68.8
+    },
+    {
+      "season": 2019,
+      "team": "Mumbai Indians",
+      "played": 16,
+      "wins": 11,
+      "win_pct": 68.8
+    }
+  ],
+  "toss_overall": {
+    "bat": 45.7,
+    "field": 55.9
+  },
+  "avg_runs_per_match": {
+    "2008": 309.3,
+    "2009": 286.9,
+    "2010": 314.7,
+    "2011": 289.8,
+    "2012": 303.4,
+    "2013": 297.4,
+    "2014": 315.5,
+    "2015": 311.1,
+    "2016": 314.4,
+    "2017": 318.4,
+    "2018": 345.1,
+    "2019": 337.8
+  },
+  "regression_slope_runs_per_season": 3.59,
+  "top5_venues": [
+    "Eden Gardens",
+    "M Chinnaswamy Stadium",
+    "Wankhede Stadium",
+    "Feroz Shah Kotla",
+    "Rajiv Gandhi International Stadium, Uppal"
+  ],
+  "death_stats": [
+    {
+      "batting_team": "Chennai Super Kings",
+      "median": 10.0,
+      "mean": 10.11,
+      "std": 5.14
+    },
+    {
+      "batting_team": "Delhi Daredevils",
+      "median": 9.0,
+      "mean": 9.37,
+      "std": 5.13
+    },
+    {
+      "batting_team": "Kings XI Punjab",
+      "median": 9.0,
+      "mean": 9.35,
+      "std": 4.93
+    },
+    {
+      "batting_team": "Kolkata Knight Riders",
+      "median": 9.0,
+      "mean": 9.53,
+      "std": 4.95
+    },
+    {
+      "batting_team": "Mumbai Indians",
+      "median": 9.0,
+      "mean": 10.05,
+      "std": 5.36
+    },
+    {
+      "batting_team": "Royal Challengers Bangalore",
+      "median": 9.0,
+      "mean": 10.33,
+      "std": 5.57
+    }
+  ],
+  "season_runs_total": 235290,
+  "total_matches": 756,
+  "total_deliveries": 179078
+}
